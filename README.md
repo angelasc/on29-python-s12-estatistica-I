@@ -2,9 +2,34 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Aula de Estatística com Python: Probabilidade e Amostragem
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 12 | 2024 | Professora Camila Ribeiro
 
-Turma ON29 | Python | Semana 12 | 2024 | Professora Camila Ribeiro
+Este repositório contém os exercícios desenvolvidos durante a **Semana 12** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, exploramos os fundamentos da Estatística para análise de dados, aplicando conceitos estatísticos a conjuntos de dados reais. O objetivo foi usar ferramentas estatísticas para interpretar dados e entender melhor suas distribuições, variabilidade e tendências.
+
+## 🎯 Objetivos do projeto
+- Calcular média, mediana, moda, variância, desvio padrão e outros indicadores estatísticos.
+- Aplicar conceitos de distribuição de probabilidade para entender o comportamento de dados.
+- Utilizar visualizações para interpretar distribuições de dados e compreender a dispersão e tendência central.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal onde as operações estatísticas são realizadas, incluindo cálculos e visualizações.
+- data.csv: Arquivo de dados utilizado para as operações estatísticas (se aplicável).
+- requirements.txt: Arquivo contendo dependências necessárias para o projeto.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para realizar os cálculos e análise estatística.
+- Pandas: Biblioteca para manipulação e análise de dados.
+- NumPy: Biblioteca para operações matemáticas e estatísticas.
+- Matplotlib/Seaborn: Bibliotecas para visualização de dados e distribuições.
+
+
+---
 
 
 **Conteúdo:**
